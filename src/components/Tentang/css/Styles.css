@@ -1,0 +1,12 @@
+.tentang-container {
+  margin: 4rem 6rem;
+  text-align: start;
+}
+
+.tentang-container h1 {
+  padding-bottom: 1rem;
+}
+
+.tentang-container p {
+  padding-bottom: 2rem;
+}
