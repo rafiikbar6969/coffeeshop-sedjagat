@@ -1,6 +1,6 @@
 import React from "react";
 import { Navbar } from "../components/Navbar/Navbar";
-import Hero from "../components/hero/hero";
+import Hero from "../components/hero/Hero";
 import Barber from "../components/Barber/Barber";
 import Layanan from "../components/layanan/layanan";
 import Footer from "../components/Footer/Footer";
